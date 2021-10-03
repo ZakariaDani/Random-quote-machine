@@ -1,0 +1,14 @@
+
+.txt {
+    font-size: 20pt;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+.fa-quote-left {
+    font-size: 20pt;
+    padding-top: 35px;
+    margin-right: 5px;
+}

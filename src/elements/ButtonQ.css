@@ -1,0 +1,46 @@
+.main__box {
+    height: 100vh;
+    width: 100vw;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.child__box {
+    width: 40vw;
+    background-color: cornsilk;
+    padding: 35px;
+    border-radius: 5px;
+    align-items: center;
+}
+.button {
+    height: 5.5vh;
+    width: 7vw;
+    color: cornsilk;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    border-radius: 2px;
+}
+.button:hover {
+    opacity: 80%;
+}
+.button__box {
+    width: 35vw;
+    display: flex;
+    justify-content: space-between;
+}
+.b2 {
+    width: 3vw;
+}
+
+.b2__box {
+    display: flex;
+    justify-content: space-between;
+    width: 6.5vw;
+}
+.fa-twitter, .fa-facebook {
+    font-size: 15pt;
+}
